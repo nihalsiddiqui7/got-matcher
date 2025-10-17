@@ -38,18 +38,6 @@ This Streamlit app analyzes the **word usage patterns of top 25 characters** fro
 
 ---
 
-## 📁 Project Structure
-
-got-matcher/
-├── app.py # Main Streamlit app
-├── prepare_data.py # Script to build character word data & embeddings
-├── download_images.py # Downloads top 25 portraits
-├── data/
-│ └── top_25_characters.csv
-├── images/
-│ └── tyrion_lannister.jpg, ...
-├── requirements.txt
-├── README.md
 
 
 
